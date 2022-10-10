@@ -1,0 +1,1 @@
+Executable windows version of dice game. Start by launching start.exe
